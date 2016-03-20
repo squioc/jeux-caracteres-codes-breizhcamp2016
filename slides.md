@@ -104,7 +104,7 @@ ___
 
 ## "c" = 0b1<span style="color: red">1</span>00011
 
-le 6ème bit à 1 pour les miniscules
+le 6ème bit à 1 pour les minuscules
 
 ---
 
@@ -168,7 +168,7 @@ ___
 
 ### Nomemclature
 
-Point de code: U+&lt;nombre de code&gt;
+Point de code: U+&lt;chiffre de code&gt;
 
 ___
 
@@ -246,7 +246,7 @@ ___
 
 ### UTF-8
 
-- 1 octet:  &nbsp;&nbsp;0xxxxxxx
+- 1 octet:  &nbsp;&nbsp;0xxxxxxx (compatible Ascii)
 - 2 octets: <span style="color:red">110</span>xxxxx <span style="color:blue">10</span>xxxxxx
 - 3 octets: <span style="color:red">1110</span>xxxx <span style="color:blue">10</span>xxxxxx <span style="color:blue">10</span>xxxxxx
 - 4 octets: <span style="color:red">11110</span>xxx <span style="color:blue">10</span>xxxxxx <span style="color:blue">10</span>xxxxxx <span style="color:blue">10</span>xxxxxx
