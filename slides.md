@@ -384,7 +384,7 @@ ___
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[@SQuiOc](https://twitter.com/squioc)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[github.com/squioc](https://github.com/squioc)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<https://squioc.github.io/jeux-caracteres-breizhcamp2016/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<https://squioc.github.io/jeux-caracteres-codes-breizhcamp2016/>
 
 ---
 
