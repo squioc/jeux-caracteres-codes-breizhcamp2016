@@ -1,5 +1,7 @@
 # Guide de survie en milieu caractériel
 
+BreizhCamp 2016
+
 ---
 
 ## Qui suis-je?
