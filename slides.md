@@ -41,7 +41,7 @@ Traduction d'un code en représentation physique ou virtuelle (exemple: la lumi�
 ___
 
 
-### Le Braille (1829)
+## Le Braille (1829)
 
 ![Braille](images/Braille.jpg)
 
@@ -49,7 +49,7 @@ ___
 
 ___
 
-### Le Code Morse (1832)
+## Le Code Morse (1832)
 
 ![Code Morse](images/codeMorse.jpg)
 
@@ -58,7 +58,7 @@ ___
 ---
 
 
-## Ascii
+# Ascii
 
 ___
 
@@ -67,7 +67,7 @@ ___
 
 ___
 
-### Ascii (1963)
+## Ascii (1963)
 
 * Représentation binaire sur 7-bits
 * 128 caractères (33 caractères de contrôle + 95 caractères graphiques)
@@ -108,11 +108,11 @@ le 6ème bit à 1 pour les minuscules
 
 ---
 
-## ISO/CEI 8859
+# ISO/CEI 8859
 
 ___
 
-### ISO/CEI 8859 (1987)
+## ISO/CEI 8859 (1987)
 
 * norme
 * Codifie les jeux de caractères 8-bits
@@ -127,7 +127,7 @@ ___
 
 ___
 
-### ISO/CEI 8859
+## ISO/CEI 8859
 
 * Deux adaptations:
     - ISO<span style="color: red">-</span>8859-n de l'IANA qui spécifient les caractères de controle aux postions inutilisées
@@ -147,11 +147,11 @@ ___
 
 ---
 
-## Unicode
+# Unicode
 
 ___
 
-### Unicode
+## Unicode
 
 * Standard développé par le Consortium Unicode
 * Suit la norme ISO/CEI 10646
@@ -159,20 +159,20 @@ ___
 
 ___
 
-### Unicode
+## Unicode
 
 * 129 parties selon [Wikipédia](https://en.wikipedia.org/wiki/Unicode), 254 selon [unicode-table.com](http://unicode-table.com/fr/blocks/)
 * Les 2 premières parties (256 symboles) reprennent l'adaptation ISO-8859-1
 
 ___
 
-### Nomemclature
+## Nomemclature
 
 Point de code: U+&lt;chiffre de code&gt;
 
 ___
 
-### Exemple
+## Exemple
 
 A = U+0041
 
@@ -186,7 +186,7 @@ Définir un jeu 16-bits pour faciliter les échanges internationaux
 
 ___
 
-### Unicode
+## Unicode
 
 * 3 représentations:
     - UTF-32
@@ -195,7 +195,7 @@ ___
 
 ___
 
-### Unicode
+## Unicode
 
 * 3 représentations:
     - UTF-32 (4 octets)
@@ -204,7 +204,7 @@ ___
 
 ___
 
-### Unicode
+## Unicode
 
 * 3 représentations:
     - UTF-32 (4 octets)
@@ -213,7 +213,7 @@ ___
 
 ___
 
-### Unicode
+## Unicode
 
 * 3 représentations:
     - UTF-32 (4 octets)
@@ -222,7 +222,7 @@ ___
 
 ___
 
-### Exemple
+## Exemple
 
 La lettre A (U+0041):
 - UTF-8: 0x41
@@ -231,7 +231,7 @@ La lettre A (U+0041):
 
 ___
 
-### Exemple
+## Exemple
 
 La lettre &#66181; (U+10285):
 - UTF-8: 0xF0 0x90 0x8A 0x85
@@ -339,7 +339,7 @@ ___
 
 ---
 
-## SMS
+# SMS
 
 ___
 
@@ -347,7 +347,7 @@ Pourquoi passe-t-on de 85 symboles restants (et 1 sms) à 58 symboles restants (
 
 ___
 
-### GSM 03.38
+## GSM 03.38
 
 * Représentation 7 bits
 * 160 symboles par SMS (1 SMS = 140 octets)
@@ -361,7 +361,7 @@ ___
 
 ___
 
-### UCS 2
+## UCS 2
 
 * Représentation 16 bits du jeu Unicode
 * taille fixe: 2 octets (&#8800; UTF-16)
