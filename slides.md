@@ -187,7 +187,7 @@ ___
 
 ## Unicode
 
-* 3 représentations:
+* 3 représentations majeures:
     - UTF-32
     - UTF-16
     - UTF-8
@@ -196,7 +196,7 @@ ___
 
 ## Unicode
 
-* 3 représentations:
+* 3 représentations majeures:
     - UTF-32 (4 octets)
     - UTF-16
     - UTF-8
@@ -205,7 +205,7 @@ ___
 
 ## Unicode
 
-* 3 représentations:
+* 3 représentations majeures:
     - UTF-32 (4 octets)
     - UTF-16 (2 ou 4 octets)
     - UTF-8
@@ -214,7 +214,7 @@ ___
 
 ## Unicode
 
-* 3 représentations:
+* 3 représentations majeures:
     - UTF-32 (4 octets)
     - UTF-16 (2 ou 4 octets)
     - UTF-8 (1, 2, 3 ou 4 octets)
