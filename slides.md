@@ -20,7 +20,7 @@ ___
 
 ## Jeu de caractères
 
-Ensemble fini de symboles graphiques
+Ensemble fini de symboles
 
 ___
 
