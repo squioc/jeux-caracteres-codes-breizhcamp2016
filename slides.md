@@ -6,7 +6,6 @@
 
  * Developpeur Rennais
  * Architecte Solution chez [Niji](http://www.niji.fr)
- * Spécialité Système D'information
 
 ---
 
